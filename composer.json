@@ -1,0 +1,32 @@
+{
+    "name": "garlic/graphql",
+    "type": "library",
+    "description": "useful helpers",
+    "homepage": "https://github.com/garlicservices/helpers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evgeny Grik",
+            "email": "e.grik@hubber.pro",
+            "homepage": "https://github.com/garlicservices/helpers",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "~7.1",
+        "tightenco/collect": "^5.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Garlic\\Helpers\\": "src"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
