@@ -1,5 +1,5 @@
 {
-    "name": "garlic/graphql",
+    "name": "garlic/helpers",
     "type": "library",
     "description": "useful helpers",
     "homepage": "https://github.com/garlicservices/helpers",
